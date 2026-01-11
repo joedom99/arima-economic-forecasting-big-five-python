@@ -4,7 +4,7 @@ A hands-on Python example showing how to build a **momentum-based economic forec
 
 This repository accompanies the blog post:
 
-**[How to Create a Big-Picture Economic Forecast Using Time-Series (ARIMA) Models in Python](https://blog.marketingdatascience.ai/how-to-create-a-big-picture-economic-forecast-using-time-series-arima-models-in-python)**
+**[How to Create a Big-Picture Economic Forecast Using Time-Series (ARIMA) Models in Python](https://blog.marketingdatascience.ai/how-to-create-a-big-picture-economic-forecast-using-time-series-arima-models-in-python-08093acfa6f1)**
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gBfFlwkRcwkgzYRAv91HDyRPbO_8dlfb?usp=sharing)
